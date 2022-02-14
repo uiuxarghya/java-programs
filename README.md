@@ -13,8 +13,8 @@
 
 <div align=center>
 
-|    **Name**     |               **Path**               |     **Completed**     |
-| :-------------: | :----------------------------------: | :-------------------: |
-| Number Programs | [Number Programs](Number%20Programs) | :white_square_button: |
+| **Sl. No.** |    **Name**     |               **Path**               |     **Completed**     |
+| :---------: | :-------------: | :----------------------------------: | :-------------------: |
+|     1.      | Number Programs | [Number Programs](Number%20Programs) | :white_square_button: |
 
 </div>
