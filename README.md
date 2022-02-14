@@ -18,10 +18,10 @@
 
 <div align=center>
 
-| **Sl. No.** | **Name**        | **Path**                             | **Total No of Programs** |
-| :---------: | :-------------- | :----------------------------------- | :----------------------: |
-|     1.      | Number Programs | [Number Programs](Number%20Programs) |            3             |
-|     2.      | String Programs | [String Programs](String%20Programs) |            -             |
+| **Sl. No.** | **Name**        | **Path**                                    | **Total No of Programs** |
+| :---------: | :-------------- | :------------------------------------------ | :----------------------: |
+|     1.      | Number Programs | [Number Programs](Number%20Programs#readme) |            3             |
+|     2.      | String Programs | [String Programs](String%20Programs#readme)        |            -             |
 
 </div>
 
