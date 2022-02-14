@@ -2,8 +2,6 @@
 
 An **Armstrong** number is a positive m-digit number that is equal to the sum of the mth powers of their digits. It is also known as **pluperfect**, or **Plus Perfect**, or **Narcissistic** number. It is an OEIS sequence **A005188**. Let’s understand it through an example.
 
-x⁰¹²³⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾ⁿⁱ
-
 ## **Armstrong Number Example**
 
 **1:** 1¹ = **1**
