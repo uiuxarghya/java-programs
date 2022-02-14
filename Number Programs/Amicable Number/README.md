@@ -1,0 +1,1 @@
+# Amicable Number
