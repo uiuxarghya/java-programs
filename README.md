@@ -13,8 +13,8 @@
 
 <div align=center>
 
-| **Sl. No.** |    **Name**     |               **Path**               | **Total No of Programs** |     **Completed**     |
-| :---------: | :-------------: | :----------------------------------: | :----------------------: | :-------------------: |
-|     1.      | Number Programs | [Number Programs](Number%20Programs) |            2             | :white_square_button: |
+| **Sl. No.** |    **Name**     |               **Path**               | **Total No of Programs** |
+| :---------: | :-------------: | :----------------------------------: | :----------------------: |
+|     1.      | Number Programs | [Number Programs](Number%20Programs) |            2             |
 
 </div>
