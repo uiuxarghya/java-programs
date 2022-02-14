@@ -15,7 +15,7 @@
 
 | **Sl. No.** | **Name**        | **Path**                             | **Total No of Programs** |
 | :---------: | :-------------- | :----------------------------------- | :----------------------: |
-|     1.      | Number Programs | [Number Programs](Number%20Programs) |            2             |
+|     1.      | Number Programs | [Number Programs](Number%20Programs) |            3             |
 |     2.      | String Programs | [String Programs](String%20Programs) |            -             |
 
 </div>
