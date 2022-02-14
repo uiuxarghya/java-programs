@@ -24,7 +24,7 @@ The first few Armstrong numbers between 0 to 999 are **1, 2, 3, 4, 5, 6, 7, 8, 9
 
 ## **Armstrong Number Programs**
 
-| **Sl. No.** | **Name**                 | **Path**                                                       |     **Completed**     |
-| :---------: | :----------------------- | :------------------------------------------------------------- | :-------------------: |
-|     1.      | Amicable Number Checking | [Armstsrong_Number_Check.java](Armstsrong_Number_Check.java)   |  :white_check_mark:   |
-|     2.      | Armstsrong Number Series | [Armstsrong_Number_Series.java](Armstsrong_Number_Series.java) | :white_square_button: |
+| **Sl. No.** | **Name**                 | **Path**                                                       |   **Completed**    |
+| :---------: | :----------------------- | :------------------------------------------------------------- | :----------------: |
+|     1.      | Amicable Number Checking | [Armstsrong_Number_Check.java](Armstsrong_Number_Check.java)   | :white_check_mark: |
+|     2.      | Armstsrong Number Series | [Armstsrong_Number_Series.java](Armstsrong_Number_Series.java) | :white_check_mark: |
