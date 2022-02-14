@@ -15,6 +15,6 @@
 
 |    **Name**     |               **Path**               | **Completed** |
 | :-------------: | :----------------------------------: | :-----------: |
-| Number Programs | [Number Programs](Number%20Programs) |      []       |
+| Number Programs | [Number Programs](Number%20Programs) |    &#9744;    |
 
 </div>
