@@ -22,6 +22,8 @@
 | :---------: | :-------------- | :------------------------------------------ | :----------------------: |
 |     1.      | Number Programs | [Number Programs](Number%20Programs#readme) |            3             |
 |     2.      | String Programs | [String Programs](String%20Programs#readme)        |            -             |
+|     3.      | Palindrome Program  | [Palindrome Program ](https://dzone.com/articles/palindrome-program-in-java) |            1             |
+
 
 </div>
 
